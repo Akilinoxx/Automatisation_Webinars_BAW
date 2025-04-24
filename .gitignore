@@ -1,0 +1,56 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de configuration IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+temp/
+tmp/
+*.tmp
+
+# Fichiers de log
+*.log
+logs/
+
+# Fichiers spécifiques à l'application
+*.mp3
+*.mp4
+*.wav
+
+# Fichiers binaires volumineux
+bin/ffmpeg.exe
+bin/ffprobe.exe
